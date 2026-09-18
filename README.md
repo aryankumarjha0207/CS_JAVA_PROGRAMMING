@@ -51,5 +51,17 @@ There's no separate automated testing that took place, we have done the testing 
 To try it yourself: run the app, add a few transactions across different categories, set a couple of budgets, and check out the Reports \& Analysis menu.
 
 ## Screenshots
-![alt text](<Screenshot 2026-09-18 185644-1.png>) ![alt text](<Screenshot 2026-09-18 185659-1.png>) ![alt text](<Screenshot 2026-09-18 185714-1.png>) ![alt text](<Screenshot 2026-09-18 185725-1.png>)
+1)Introduction:-
+<img width="1391" height="355" alt="Screenshot 2026-09-18 185644" src="https://github.com/user-attachments/assets/a93e8695-e33f-418b-b6c8-eade18b5778d" />
+2)Transactions:-
+<img width="1478" height="937" alt="Screenshot 2026-09-18 185659" src="https://github.com/user-attachments/assets/48d0c0d8-25ae-44df-b250-73d9d2c2c851" />
+3)Budgets:-
+<img width="1448" height="752" alt="Screenshot 2026-09-18 185714" src="https://github.com/user-attachments/assets/fc46867c-e26e-42a8-a042-f98126033bb5" />
+4)Report and analysis:-
+<img width="1472" height="935" alt="Screenshot 2026-09-18 185725" src="https://github.com/user-attachments/assets/1007c245-3215-471a-9e35-3f21c2315947" />
+
+
+
+
+
 
