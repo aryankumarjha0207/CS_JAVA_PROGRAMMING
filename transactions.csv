@@ -1,0 +1,12 @@
+id,type,amount,category,date,note
+1,INCOME,5000.0,Salary/Stipend,2026-09-01,Part-time stipend
+2,EXPENSE,250.5,Food,2026-09-02,Dinner with friends
+3,EXPENSE,499.0,Subscriptions,2026-09-03,Spotify
+4,EXPENSE,120.0,Travel,2026-09-03,Bus pass top-up
+5,INCOME,1000.0,Allowance,2026-09-04,Monthly allowance from home
+6,EXPENSE,850.0,Shopping,2026-09-05,New t-shirts
+7,EXPENSE,60.0,Food,2026-09-05,Coffee with classmates
+8,EXPENSE,199.0,Subscriptions,2026-09-06,Netflix
+9,EXPENSE,300.0,Entertainment,2026-09-06,Movie tickets
+10,EXPENSE,75.0,Food,2026-09-07,Snacks
+11,INCOME,25000.0,Salary/Stipend,2026-09-18,1st
